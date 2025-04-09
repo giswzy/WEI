@@ -5,13 +5,18 @@ Rocky desertification (RD), a manifestation of land degradation in humid and sem
 
 ## Folders
 LDN-data: Land degradation neutrality assessment results, comprising evaluations of four sub-indicators (land cover, land productivity, soil organic carbon, rocky desertification index), land use type transitions, and assessments of the UNCCD and LDN-RD indicator systems, as well as divergences between these outcomes.
+
 MK test-data: Mann–Kendall test results for the rocky desertification index.
+
 RD-data: Rocky desertification (RD) index dataset.
+
 table-data: Base data for GBM analysis under the UNCCD and LDN-RD indicator systems.
 
 ## Scripts:
 GBM core code.r:The main code for running the gradient boosting machine
+
 Nonlinear relationship analysis core code.r:The main code for running the analysis nonlinear relationship
+
 RD-Merge.js:The main code for Calculating Rocky Desertification Index
 
 ## Implementation of Code for Calculating Rocky Desertification Index
