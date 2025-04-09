@@ -25,7 +25,7 @@ Key Details:
 
 1.Workflow Overview:
 
-The entire process is carried out on Google earth engine(GEE). To optimize computational efficiency, some intermediate results are pre-computed and stored for later use. This version of the code is a merged and simplified version and is not directly executable. However, the functions provided in this script can be used as a reference for similar analyses.
+The entire process is carried out on Google Earth Engine(GEE). To optimize computational efficiency, some intermediate results are pre-computed and stored for later use. This version of the code is a merged and simplified version and is not directly executable. However, the functions provided in this script can be used as a reference for similar analyses.
 
 2.Chunking for Resource Efficiency:
 
