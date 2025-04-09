@@ -15,7 +15,7 @@ table-data: Base data for GBM analysis under the UNCCD and LDN-RD indicator syst
 ## Scripts:
 GBM core code.r: The main code for running the GBM.
 
-Nonlinear relationship analysis core code.r: The main code for running the analysis nonlinear relationship.
+Nonlinear relationship analysis core code.r: The main code for executing the analysis of nonlinear relationships.
 
 RD-Merge.js: The main code for calculating RD index.
 
