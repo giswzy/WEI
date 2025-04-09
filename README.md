@@ -13,6 +13,7 @@ Overview
 This repository contains a simplified and merged version of a Google Earth Engine (GEE) workflow that calculates the Desertification Index for a given study area using Landsat 7 and Landsat 8 imagery. The process involves multiple steps, including image preprocessing, NDVI and NDRI calculation, feature extraction (FVC and BER), and entropy-based weight calculation for the final desertification index.
 
 Key Details:
+
 1.Workflow Overview:
 
 The entire process is carried out on Google Earth Engine (GEE). To optimize computational efficiency, some intermediate results are pre-computed and stored for later use. This version of the code is a merged and simplified version and is not directly executable. However, the functions provided in this script can be used as a reference for similar analyses.
